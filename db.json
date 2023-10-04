@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Mihajlo",
+      "lastName": "Gluh",
+      "email": "m@gmail.opcm",
+      "dob": "2023-10-10T22:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Gogel",
+      "experience": "1",
+      "package": "54",
+      "id": 1
+    },
+    {
+      "firstName": "testing",
+      "lastName": "user",
+      "email": "test@gmakkk.c",
+      "dob": "2021-06-07T22:00:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "5553GOGLE",
+      "experience": "99",
+      "package": "12",
+      "id": 2
+    }
+  ]
+}
