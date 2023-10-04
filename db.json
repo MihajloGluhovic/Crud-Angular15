@@ -30,16 +30,16 @@
       "id": 1
     },
     {
-      "firstName": "testing",
-      "lastName": "user",
-      "email": "test@gmakkk.c",
-      "dob": "2021-06-07T22:00:00.000Z",
+      "firstName": "Santos",
+      "lastName": "sata",
+      "email": "dsa2@",
+      "dob": "2001-12-05T23:00:00.000Z",
       "gender": "male",
-      "education": "Matric",
-      "company": "5553GOGLE",
-      "experience": "99",
+      "education": "Post Graduate",
+      "company": "32GGGL",
+      "experience": "4",
       "package": "12",
-      "id": 2
+      "id": 3
     }
   ]
 }
