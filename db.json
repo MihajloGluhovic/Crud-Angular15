@@ -18,18 +18,6 @@
   },
   "employees": [
     {
-      "firstName": "Mihajlo",
-      "lastName": "Gluh",
-      "email": "m@gmail.opcm",
-      "dob": "2023-10-10T22:00:00.000Z",
-      "gender": "female",
-      "education": "Graduate",
-      "company": "Gogel",
-      "experience": "1",
-      "package": "54",
-      "id": 1
-    },
-    {
       "firstName": "Santos",
       "lastName": "sata",
       "email": "dsa2@",
